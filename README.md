@@ -18,7 +18,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.cpp) | `0.012 segs.` | `1684 KiB` |
+| `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
 
 ---
 
