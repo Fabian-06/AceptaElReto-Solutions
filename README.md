@@ -19,7 +19,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | `100` | [Constante de Kaprekar](./Problemas/100_ConstantedeKaprekar) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/100_ConstantedeKaprekar/solution.cpp) | `0.028 segs.` | `1820 KiB` |
-| `112` | [Radares de tramo](./Problemas/112_Radaresdetramo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/112_Radaresdetramo/solution.cpp) | `0.032 segs.` | `1820 KiB` |
+| `112` | [Radares de tramo](./Problemas/112_Radaresdetramo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/112_Radaresdetramo/solution.cpp) | `0.044 segs.` | `1820 KiB` |
 | `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
 
 ---
