@@ -10,11 +10,12 @@ int main(){
     cin.tie(NULL);
     int n;
     int numero;
-    priority_queue<int> menores;
-    priority_queue<int, vector<int>, greater<int>> mayores;
+    
     int salida;
 
     while(cin >> n){
+        priority_queue<int> menores;
+        priority_queue<int, vector<int>, greater<int>> mayores;
         salida = 0;
         for(int i = 0; i < n; i++){
             
@@ -55,12 +56,7 @@ int main(){
             }
         }
         cout << "\n";
-        while(!menores.empty()){
-            menores.pop();
-        }
-        while(!mayores.empty()){
-            mayores.pop();
-        }
+        
     }
     return 0;
 }
