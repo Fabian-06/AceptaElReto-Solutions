@@ -22,7 +22,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `112` | [Radares de tramo](./Problemas/112_Radaresdetramo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/112_Radaresdetramo/solution.cpp) | `0.044 segs.` | `1820 KiB` |
 | `114` | [Último dígito del factorial](./Problemas/114_Ultimodigitodelfactorial) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/114_Ultimodigitodelfactorial/solution.cpp) | `0.044 segs.` | `1820 KiB` |
 | `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
-| `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.296 segs.` | `3224 KiB` |
+| `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
 | `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
 
 ---
