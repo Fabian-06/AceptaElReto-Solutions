@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cctype>
 #include <algorithm>
+#include <set>
 using namespace std;
 
 int main(){
@@ -13,7 +14,9 @@ int main(){
     int n2;
     cin >> casos;
     cin.ignore();
+    set<char> vistos;
     while(casos != 0){
+        vistos.clear();
         getline(cin, linea1);
         getline(cin,linea2);
         
@@ -30,10 +33,13 @@ int main(){
         }
         bool res = true;
         for(int i = 0; i < linea1.length() && res; i++){
-            n1 = count(linea1.begin(),linea1.end(), linea1[i]);
-            n2 = count(linea2.begin(),linea2.end(), linea1[i]);
-            if(n1 != n2){
-                res = false;
+            if(vistos.find(linea1[i]) == vistos.end()){
+                n1 = count(linea1.begin(),linea1.end(), linea1[i]);
+                n2 = count(linea2.begin(),linea2.end(), linea1[i]);
+                if(n1 != n2){
+                    res = false;
+                }
+                vistos.insert(linea1[i]);
             }
         }
         if(res){
