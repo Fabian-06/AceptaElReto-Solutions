@@ -14,9 +14,11 @@ int main(){
     int n2;
     cin >> casos;
     cin.ignore();
-    set<char> vistos;
+    int lista[26];
     while(casos != 0){
-        vistos.clear();
+        for(int i = 0; i < 26; i++){
+            lista[i] = 0;
+        }
         getline(cin, linea1);
         getline(cin,linea2);
         
@@ -32,14 +34,16 @@ int main(){
             continue;
         }
         bool res = true;
-        for(int i = 0; i < linea1.length() && res; i++){
-            if(vistos.find(linea1[i]) == vistos.end()){
-                n1 = count(linea1.begin(),linea1.end(), linea1[i]);
-                n2 = count(linea2.begin(),linea2.end(), linea1[i]);
-                if(n1 != n2){
-                    res = false;
-                }
-                vistos.insert(linea1[i]);
+        for(int i = 0; i < linea1.length(); i++){
+            n1 = linea1[i] - 'a';
+            n2 = linea2[i] - 'a';
+            lista[n1]++;
+            lista[n2]--;
+
+        }
+        for(int i = 0; i < 26 && res; i++){
+            if(lista[i] != 0){
+                res = false;
             }
         }
         if(res){
