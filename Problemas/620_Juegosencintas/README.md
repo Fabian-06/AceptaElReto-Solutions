@@ -11,7 +11,7 @@
 | **Tiempo de CPU** | `0.212 segs.` |
 | **Memoria consumida** | `1684 KiB` |
 | **Lenguaje empleado** | `C++` |
-| **ID de Envío** | `1137018` |
+| **ID de Envío** | `1137019` |
 | **Fecha de resolución** | `16/10/2026` |
 
 ---
