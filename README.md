@@ -18,7 +18,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| `171` | [Abadías pirenáicas](./Problemas/171_Abadiaspirenaicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/171_Abadiaspirenaicas/solution.cpp) | `0.424 segs.` | `2084 KiB` |
+| `171` | [Abadías pirenáicas](./Problemas/171_Abadiaspirenaicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/171_Abadiaspirenaicas/solution.cpp) | `0.212 segs.` | `1684 KiB` |
 | `186` | [Y el ganador es...](./Problemas/186_Yelganadores) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/186_Yelganadores/solution.cpp) | `1.228 segs.` | `1948 KiB` |
 
 ---
