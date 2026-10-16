@@ -7,8 +7,6 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int montana;
-    int actual;
-    int siguiente;
     int max;
     int array[100000];
     int res;
@@ -18,8 +16,7 @@ int main() {
         break;
     }
     for(int i = 0; i< montana; i++){
-        cin >> actual;
-        array[i] = actual;
+        cin >> array[i];
     }
     max = array[montana-1];
     res = 1;
