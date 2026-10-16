@@ -18,7 +18,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| `186` | [Y el ganador es...](./Problemas/186_Yelganadores) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/186_Yelganadores/solution.cpp) | `1.248 segs.` | `2588 KiB` |
+| `186` | [Y el ganador es...](./Problemas/186_Yelganadores) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/186_Yelganadores/solution.cpp) | `1.228 segs.` | `1948 KiB` |
 
 ---
 
