@@ -35,7 +35,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `293` | [Artrópodos](./Problemas/293_Artropodos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/293_Artropodos/solution.cpp) | `0.04 segs.` | `1820 KiB` |
 | `300` | [Palabras pentavocálicas](./Problemas/300_Palabraspentavocalicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/300_Palabraspentavocalicas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
 | `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
-| `313` | [Fin de mes](./Problemas/313_Findemes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/313_Findemes/solution.cpp) | `0.028 segs.` | `1816 KiB` |
+| `313` | [Fin de mes](./Problemas/313_Findemes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/313_Findemes/solution.cpp) | `0.06 segs.` | `1820 KiB` |
 | `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
 
 ---
