@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-24-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-25-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (24)
+## 🏆 Problemas Resueltos (25)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -23,6 +23,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `112` | [Radares de tramo](./Problemas/112_Radaresdetramo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/112_Radaresdetramo/solution.cpp) | `0.044 segs.` | `1820 KiB` |
 | `114` | [Último dígito del factorial](./Problemas/114_Ultimodigitodelfactorial) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/114_Ultimodigitodelfactorial/solution.cpp) | `0.044 segs.` | `1820 KiB` |
 | `140` | [Suma de dígitos](./Problemas/140_Sumadedigitos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/140_Sumadedigitos/solution.cpp) | `0.056 segs.` | `1820 KiB` |
+| `143` | [Tortitas](./Problemas/143_Tortitas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/143_Tortitas/solution.cpp) | `0.144 segs.` | `2096 KiB` |
 | `149` | [San Fermines](./Problemas/149_SanFermines) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/149_SanFermines/solution.cpp) | `0.24 segs.` | `1684 KiB` |
 | `151` | [¿Es matriz identidad?](./Problemas/151_Esmatrizidentidad) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/151_Esmatrizidentidad/solution.cpp) | `0.148 segs.` | `1684 KiB` |
 | `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
