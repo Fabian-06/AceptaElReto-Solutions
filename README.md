@@ -38,7 +38,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `313` | [Fin de mes](./Problemas/313_Findemes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/313_Findemes/solution.cpp) | `0.06 segs.` | `1820 KiB` |
 | `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
 | `350` | [El triángulo de mayor área](./Problemas/350_Eltriangulodemayorarea) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/350_Eltriangulodemayorarea/solution.cpp) | `0.024 segs.` | `1816 KiB` |
-| `357` | [La prueba de las cajas y las bolas](./Problemas/357_Lapruebadelascajasylasbolas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/357_Lapruebadelascajasylasbolas/solution.cpp) | `0.176 segs.` | `2708 KiB` |
+| `357` | [La prueba de las cajas y las bolas](./Problemas/357_Lapruebadelascajasylasbolas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/357_Lapruebadelascajasylasbolas/solution.cpp) | `0.068 segs.` | `1680 KiB` |
 | `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
 
 ---
