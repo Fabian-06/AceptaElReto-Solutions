@@ -32,7 +32,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `237` | [Números polidivisibles](./Problemas/237_Numerospolidivisibles) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/237_Numerospolidivisibles/solution.cpp) | `0.024 segs.` | `1820 KiB` |
 | `241` | [Me quiere, no me quiere](./Problemas/241_Mequierenomequiere) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/241_Mequierenomequiere/solution.cpp) | `0.088 segs.` | `1684 KiB` |
 | `260` | [Alan Smithee](./Problemas/260_AlanSmithee) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/260_AlanSmithee/solution.cpp) | `0.144 segs.` | `1820 KiB` |
-| `293` | [Artrópodos](./Problemas/293_Artropodos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/293_Artropodos/solution.cpp) | `0.048 segs.` | `1820 KiB` |
+| `293` | [Artrópodos](./Problemas/293_Artropodos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/293_Artropodos/solution.cpp) | `0.04 segs.` | `1820 KiB` |
 | `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
 | `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
 
