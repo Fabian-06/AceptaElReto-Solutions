@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-11-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-12-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (11)
+## 🏆 Problemas Resueltos (12)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -25,6 +25,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `149` | [San Fermines](./Problemas/149_SanFermines) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/149_SanFermines/solution.cpp) | `0.24 segs.` | `1684 KiB` |
 | `151` | [¿Es matriz identidad?](./Problemas/151_Esmatrizidentidad) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/151_Esmatrizidentidad/solution.cpp) | `0.148 segs.` | `1684 KiB` |
 | `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
+| `158` | [Los saltos de Mario](./Problemas/158_LossaltosdeMario) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/158_LossaltosdeMario/solution.cpp) | `0.06 segs.` | `1820 KiB` |
 | `222` | [Serie de potencias](./Problemas/222_Seriedepotencias) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/222_Seriedepotencias/solution.cpp) | `0.012 segs.` | `1684 KiB` |
 | `260` | [Alan Smithee](./Problemas/260_AlanSmithee) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/260_AlanSmithee/solution.cpp) | `0.144 segs.` | `1820 KiB` |
 | `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
