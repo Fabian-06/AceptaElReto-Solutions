@@ -2,16 +2,16 @@
 
 [![Juez](https://img.shields.io/badge/Juez-Acepta%20el%20Reto-blue?style=flat-square)](https://aceptaelreto.com/problem/statement.php?id=157)
 [![Resultado](https://img.shields.io/badge/Resultado-Accepted%20(AC)-brightgreen?style=flat-square)](#)
-[![Lenguaje](https://img.shields.io/badge/Lenguaje-C%2B%2B-00599C?style=flat-square)](#)
+[![Lenguaje](https://img.shields.io/badge/Lenguaje-Java-ED8B00?style=flat-square)](#)
 
 ## 📊 Estadísticas de la solución
 
 | Métrica | Valor |
 | :--- | :--- |
-| **Tiempo de CPU** | `0.012 segs.` |
-| **Memoria consumida** | `1820 KiB` |
-| **Lenguaje empleado** | `C++` |
-| **ID de Envío** | `1137850` |
+| **Tiempo de CPU** | `0.642 segs.` |
+| **Memoria consumida** | `1742 KiB` |
+| **Lenguaje empleado** | `Java` |
+| **ID de Envío** | `1128068` |
 | **Fecha de resolución** | `19/10/2026` |
 
 ---
