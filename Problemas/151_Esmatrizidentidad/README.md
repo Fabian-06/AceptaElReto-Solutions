@@ -8,10 +8,10 @@
 
 | Métrica | Valor |
 | :--- | :--- |
-| **Tiempo de CPU** | `0.112 segs.` |
+| **Tiempo de CPU** | `0.012 segs.` |
 | **Memoria consumida** | `1820 KiB` |
 | **Lenguaje empleado** | `C++` |
-| **ID de Envío** | `1137822` |
+| **ID de Envío** | `1128832` |
 | **Fecha de resolución** | `19/10/2026` |
 
 ---
