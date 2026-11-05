@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-29-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-30-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (29)
+## 🏆 Problemas Resueltos (30)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -30,6 +30,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `157` | [¿Cuantos días faltan?](./Problemas/157_Cuantosdiasfaltan) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/157_Cuantosdiasfaltan/solution.java) | `0.642 segs.` | `1742 KiB` |
 | `158` | [Los saltos de Mario](./Problemas/158_LossaltosdeMario) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/158_LossaltosdeMario/solution.cpp) | `0.016 segs.` | `1816 KiB` |
 | `166` | [Zapping](./Problemas/166_Zapping) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/166_Zapping/solution.cpp) | `0.012 segs.` | `1816 KiB` |
+| `216` | [Goteras](./Problemas/216_Goteras) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/216_Goteras/solution.cpp) | `0.024 segs.` | `1820 KiB` |
 | `217` | [¿Qué lado de la calle?](./Problemas/217_Queladodelacalle) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/217_Queladodelacalle/solution.cpp) | `0.048 segs.` | `1832 KiB` |
 | `222` | [Serie de potencias](./Problemas/222_Seriedepotencias) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/222_Seriedepotencias/solution.cpp) | `0.012 segs.` | `1684 KiB` |
 | `237` | [Números polidivisibles](./Problemas/237_Numerospolidivisibles) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/237_Numerospolidivisibles/solution.cpp) | `0.024 segs.` | `1820 KiB` |
