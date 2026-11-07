@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+
 
 using namespace std;
 
@@ -7,24 +7,25 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int n;
-    int m;
-    int max = 1000007;
-    int pot;
+    int x, n;
     int res;
-    while(cin >> n >> m){
+    int sumar;
+
+    while ((cin >> x >> n)){
         res = 1;
-        pot = 1;
-        for(int i = 1; i <= m; i++){
-            pot *= n;
-            if(pot >= max){
-                pot %= max;
+        sumar = 1;
+        for(int i = 1; i <= n; i++){
+            sumar *= x;
+            if(sumar >= 1000007){
+                sumar %=1000007;
             }
-            res += pot;
-            if(res >= max){
-                res %= max;
+            res += sumar;
+            if(res >= 1000007){
+                res %=1000007;
             }
         }
-        cout << res << '\n';
+        cout << res << "\n";
     }
+    
+    
 }
