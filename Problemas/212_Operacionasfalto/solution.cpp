@@ -7,7 +7,7 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int calles, intersecciones;
-    int vertices[51];
+    bool vertices[51];
     int origen, destino,impar;
     while(true){
         cin >> calles;
@@ -15,19 +15,19 @@ int main(){
             break;
         }
         cin >> intersecciones;
-        fill(vertices+1, vertices+intersecciones+1, 0);
+        fill(vertices+1, vertices+intersecciones+1, true);
         impar = 0;
         for(int i = 0; i < calles; i++){
             cin >> origen >> destino;
-            vertices[origen]++;
-            if(vertices[origen] % 2 != 0){
+            vertices[origen] = !vertices[origen];
+            if(!vertices[origen]){
                 impar++;
             }else{
                 impar--;
             }
-            vertices[destino]++;
+            vertices[destino] = !vertices[destino];
             
-            if(vertices[destino] % 2 != 0){
+            if(!vertices[destino]){
                 impar++;
             }else{
                 impar--;
