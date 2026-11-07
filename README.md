@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-30-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-31-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (30)
+## 🏆 Problemas Resueltos (31)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -45,6 +45,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
 | `350` | [El triángulo de mayor área](./Problemas/350_Eltriangulodemayorarea) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/350_Eltriangulodemayorarea/solution.cpp) | `0.024 segs.` | `1816 KiB` |
 | `357` | [La prueba de las cajas y las bolas](./Problemas/357_Lapruebadelascajasylasbolas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/357_Lapruebadelascajasylasbolas/solution.cpp) | `0.068 segs.` | `1680 KiB` |
+| `427` | [Yo soy tu...](./Problemas/427_Yosoytu) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/427_Yosoytu/solution.cpp) | `0.024 segs.` | `1820 KiB` |
 | `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
 | `664` | [Gálibo](./Problemas/664_Galibo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/664_Galibo/solution.cpp) | `0.04 segs.` | `1820 KiB` |
 | `691` | [Recaudación de la taquilla](./Problemas/691_Recaudaciondelataquilla) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/691_Recaudaciondelataquilla/solution.cpp) | `0.104 segs.` | `1816 KiB` |
