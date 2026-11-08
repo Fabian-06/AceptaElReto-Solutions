@@ -35,11 +35,12 @@ int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int casos;
+    int raiz, altura;
     cin >> casos;
     while(casos != 0){
         numNodos = 0;
-        int raiz = leer();
-        int altura = calcular(raiz);
+        raiz = leer();
+        altura = calcular(raiz);
         cout << altura << "\n";
         casos--;
     }
