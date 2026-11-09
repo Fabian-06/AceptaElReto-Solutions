@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-36-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-37-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (36)
+## 🏆 Problemas Resueltos (37)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -45,6 +45,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `298` | [¿Es un árbol binario de búsqueda?](./Problemas/298_Esunarbolbinariodebusqueda) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/298_Esunarbolbinariodebusqueda/solution.cpp) | `0.62 segs.` | `1868 KiB` |
 | `300` | [Palabras pentavocálicas](./Problemas/300_Palabraspentavocalicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/300_Palabraspentavocalicas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
 | `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
+| `303` | [¿Es un árbol AVL?](./Problemas/303_EsunarbolAVL) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/303_EsunarbolAVL/solution.cpp) | `0.632 segs.` | `1868 KiB` |
 | `304` | [División euclídea](./Problemas/304_Divisioneuclidea) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/304_Divisioneuclidea/solution.cpp) | `0.24 segs.` | `1680 KiB` |
 | `313` | [Fin de mes](./Problemas/313_Findemes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/313_Findemes/solution.cpp) | `0.06 segs.` | `1820 KiB` |
 | `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
