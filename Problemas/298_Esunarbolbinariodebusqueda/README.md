@@ -12,7 +12,7 @@
 | **Memoria consumida** | `1868 KiB` |
 | **Lenguaje empleado** | `C++` |
 | **ID de Envío** | `1144068` |
-| **Fecha de resolución** | `8/11/2026` |
+| **Fecha de resolución** | `9/11/2026` |
 
 ---
 
