@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-35-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-36-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,7 +14,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (35)
+## 🏆 Problemas Resueltos (36)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -40,6 +40,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | `269` | [Entrenando para la vuelta ciclista](./Problemas/269_Entrenandoparalavueltaciclista) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/269_Entrenandoparalavueltaciclista/solution.cpp) | `0.104 segs.` | `1816 KiB` |
 | `275` | [¿Está el árbol equilibrado?](./Problemas/275_Estaelarbolequilibrado) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/275_Estaelarbolequilibrado/solution.cpp) | `0.068 segs.` | `1892 KiB` |
 | `290` | [Altura de un árbol binario](./Problemas/290_Alturadeunarbolbinario) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/290_Alturadeunarbolbinario/solution.cpp) | `0.068 segs.` | `1892 KiB` |
+| `292` | [Repartiendo paquetes](./Problemas/292_Repartiendopaquetes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/292_Repartiendopaquetes/solution.cpp) | `0.308 segs.` | `4984 KiB` |
 | `293` | [Artrópodos](./Problemas/293_Artropodos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/293_Artropodos/solution.cpp) | `0.04 segs.` | `1820 KiB` |
 | `298` | [¿Es un árbol binario de búsqueda?](./Problemas/298_Esunarbolbinariodebusqueda) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/298_Esunarbolbinariodebusqueda/solution.cpp) | `0.62 segs.` | `1868 KiB` |
 | `300` | [Palabras pentavocálicas](./Problemas/300_Palabraspentavocalicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/300_Palabraspentavocalicas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
