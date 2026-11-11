@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Total%20Resueltos-37-blueviolet?style=for-the-badge" alt="Total Resueltos" />
+  <img src="https://img.shields.io/badge/Total%20Resueltos-4-blueviolet?style=for-the-badge" alt="Total Resueltos" />
 </p>
 
 Repositorio personal con las soluciones aceptadas (**Accepted - AC**) en la plataforma de programación competitiva **[Acepta el Reto](https://aceptaelreto.com/)**.
@@ -14,47 +14,14 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 
 ---
 
-## 🏆 Problemas Resueltos (37)
+## 🏆 Problemas Resueltos (4)
 
 | # | Problema | Lenguaje | Solución | Tiempo | Memoria |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| `100` | [Constante de Kaprekar](./Problemas/100_ConstantedeKaprekar) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/100_ConstantedeKaprekar/solution.cpp) | `0.028 segs.` | `1820 KiB` |
-| `105` | [Ventas](./Problemas/105_Ventas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/105_Ventas/solution.cpp) | `0.168 segs.` | `1816 KiB` |
-| `112` | [Radares de tramo](./Problemas/112_Radaresdetramo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/112_Radaresdetramo/solution.cpp) | `0.044 segs.` | `1820 KiB` |
-| `114` | [Último dígito del factorial](./Problemas/114_Ultimodigitodelfactorial) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/114_Ultimodigitodelfactorial/solution.cpp) | `0.044 segs.` | `1820 KiB` |
-| `140` | [Suma de dígitos](./Problemas/140_Sumadedigitos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/140_Sumadedigitos/solution.cpp) | `0.056 segs.` | `1820 KiB` |
-| `143` | [Tortitas](./Problemas/143_Tortitas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/143_Tortitas/solution.cpp) | `0.144 segs.` | `2096 KiB` |
-| `149` | [San Fermines](./Problemas/149_SanFermines) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/149_SanFermines/solution.cpp) | `0.24 segs.` | `1684 KiB` |
-| `151` | [¿Es matriz identidad?](./Problemas/151_Esmatrizidentidad) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/151_Esmatrizidentidad/solution.cpp) | `0.148 segs.` | `1684 KiB` |
-| `153` | [Reloj a través del espejo](./Problemas/153_Relojatravesdelespejo) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/153_Relojatravesdelespejo/solution.java) | `0.089 segs.` | `1349 KiB` |
-| `157` | [¿Cuantos días faltan?](./Problemas/157_Cuantosdiasfaltan) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) | [Ver solución](./Problemas/157_Cuantosdiasfaltan/solution.java) | `0.642 segs.` | `1742 KiB` |
-| `158` | [Los saltos de Mario](./Problemas/158_LossaltosdeMario) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/158_LossaltosdeMario/solution.cpp) | `0.016 segs.` | `1816 KiB` |
-| `166` | [Zapping](./Problemas/166_Zapping) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/166_Zapping/solution.cpp) | `0.012 segs.` | `1816 KiB` |
-| `212` | [Operación asfalto](./Problemas/212_Operacionasfalto) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/212_Operacionasfalto/solution.cpp) | `0.16 segs.` | `1820 KiB` |
-| `216` | [Goteras](./Problemas/216_Goteras) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/216_Goteras/solution.cpp) | `0.02 segs.` | `1820 KiB` |
-| `217` | [¿Qué lado de la calle?](./Problemas/217_Queladodelacalle) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/217_Queladodelacalle/solution.cpp) | `0.048 segs.` | `1832 KiB` |
-| `222` | [Serie de potencias](./Problemas/222_Seriedepotencias) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/222_Seriedepotencias/solution.cpp) | `0.06 segs.` | `1820 KiB` |
-| `237` | [Números polidivisibles](./Problemas/237_Numerospolidivisibles) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/237_Numerospolidivisibles/solution.cpp) | `0.024 segs.` | `1820 KiB` |
-| `241` | [Me quiere, no me quiere](./Problemas/241_Mequierenomequiere) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/241_Mequierenomequiere/solution.cpp) | `0.088 segs.` | `1684 KiB` |
-| `260` | [Alan Smithee](./Problemas/260_AlanSmithee) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/260_AlanSmithee/solution.cpp) | `0.144 segs.` | `1820 KiB` |
-| `269` | [Entrenando para la vuelta ciclista](./Problemas/269_Entrenandoparalavueltaciclista) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/269_Entrenandoparalavueltaciclista/solution.cpp) | `0.104 segs.` | `1816 KiB` |
-| `275` | [¿Está el árbol equilibrado?](./Problemas/275_Estaelarbolequilibrado) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/275_Estaelarbolequilibrado/solution.cpp) | `0.068 segs.` | `1892 KiB` |
-| `290` | [Altura de un árbol binario](./Problemas/290_Alturadeunarbolbinario) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/290_Alturadeunarbolbinario/solution.cpp) | `0.068 segs.` | `1892 KiB` |
-| `292` | [Repartiendo paquetes](./Problemas/292_Repartiendopaquetes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/292_Repartiendopaquetes/solution.cpp) | `0.308 segs.` | `4984 KiB` |
-| `293` | [Artrópodos](./Problemas/293_Artropodos) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/293_Artropodos/solution.cpp) | `0.04 segs.` | `1820 KiB` |
-| `298` | [¿Es un árbol binario de búsqueda?](./Problemas/298_Esunarbolbinariodebusqueda) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/298_Esunarbolbinariodebusqueda/solution.cpp) | `0.62 segs.` | `1868 KiB` |
-| `300` | [Palabras pentavocálicas](./Problemas/300_Palabraspentavocalicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/300_Palabraspentavocalicas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
-| `302` | [¿El mediano, por favor?](./Problemas/302_Elmedianoporfavor) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/302_Elmedianoporfavor/solution.cpp) | `0.268 segs.` | `3224 KiB` |
-| `303` | [¿Es un árbol AVL?](./Problemas/303_EsunarbolAVL) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/303_EsunarbolAVL/solution.cpp) | `0.632 segs.` | `1868 KiB` |
-| `304` | [División euclídea](./Problemas/304_Divisioneuclidea) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/304_Divisioneuclidea/solution.cpp) | `0.24 segs.` | `1680 KiB` |
-| `313` | [Fin de mes](./Problemas/313_Findemes) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/313_Findemes/solution.cpp) | `0.06 segs.` | `1820 KiB` |
-| `314` | [Temperaturas extremas](./Problemas/314_Temperaturasextremas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/314_Temperaturasextremas/solution.cpp) | `0.028 segs.` | `1816 KiB` |
-| `350` | [El triángulo de mayor área](./Problemas/350_Eltriangulodemayorarea) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/350_Eltriangulodemayorarea/solution.cpp) | `0.024 segs.` | `1816 KiB` |
-| `357` | [La prueba de las cajas y las bolas](./Problemas/357_Lapruebadelascajasylasbolas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/357_Lapruebadelascajasylasbolas/solution.cpp) | `0.068 segs.` | `1680 KiB` |
-| `427` | [Yo soy tu...](./Problemas/427_Yosoytu) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/427_Yosoytu/solution.cpp) | `1.872 segs.` | `1820 KiB` |
-| `626` | [Plinio el Joven](./Problemas/626_PlinioelJoven) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/626_PlinioelJoven/solution.cpp) | `0.036 segs.` | `1820 KiB` |
-| `664` | [Gálibo](./Problemas/664_Galibo) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/664_Galibo/solution.cpp) | `0.04 segs.` | `1820 KiB` |
-| `691` | [Recaudación de la taquilla](./Problemas/691_Recaudaciondelataquilla) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/691_Recaudaciondelataquilla/solution.cpp) | `0.104 segs.` | `1816 KiB` |
+| `171` | [Abadías pirenáicas](./Problemas/171_Abadiaspirenaicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/171_Abadiaspirenaicas/solution.cpp) | `0.212 segs.` | `1684 KiB` |
+| `186` | [Y el ganador es...](./Problemas/186_Yelganadores) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/186_Yelganadores/solution.cpp) | `1.228 segs.` | `1948 KiB` |
+| `596` | [Codificación límite](./Problemas/596_Codificacionlimite) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/596_Codificacionlimite/solution.cpp) | `0.04 segs.` | `1892 KiB` |
+| `620` | [Juegos en cintas](./Problemas/620_Juegosencintas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/620_Juegosencintas/solution.cpp) | `0.212 segs.` | `1684 KiB` |
 
 ---
 
