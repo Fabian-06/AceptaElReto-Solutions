@@ -20,7 +20,7 @@ Todas las soluciones, estadísticas de ejecución y enunciados son sincronizados
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | `171` | [Abadías pirenáicas](./Problemas/171_Abadiaspirenaicas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/171_Abadiaspirenaicas/solution.cpp) | `0.212 segs.` | `1684 KiB` |
 | `186` | [Y el ganador es...](./Problemas/186_Yelganadores) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/186_Yelganadores/solution.cpp) | `1.228 segs.` | `1948 KiB` |
-| `596` | [Codificación límite](./Problemas/596_Codificacionlimite) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/596_Codificacionlimite/solution.cpp) | `0.04 segs.` | `1892 KiB` |
+| `596` | [Codificación límite](./Problemas/596_Codificacionlimite) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/596_Codificacionlimite/solution.cpp) | `0.032 segs.` | `1892 KiB` |
 | `620` | [Juegos en cintas](./Problemas/620_Juegosencintas) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) | [Ver solución](./Problemas/620_Juegosencintas/solution.cpp) | `0.212 segs.` | `1684 KiB` |
 
 ---
