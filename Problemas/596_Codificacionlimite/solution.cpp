@@ -35,14 +35,12 @@ void calcular(int u){
 int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    int raiz;
     while(cin >> c){
-        raiz = 0;
         numNodos = 1;
         arbol[0].c = c;
         arbol[0].izq = leer();
         arbol[0].der = leer();
-        calcular(raiz);
+        calcular(0);
         cout << "\n";
         
     }
